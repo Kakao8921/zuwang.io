@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>首页</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.bg {
+	background-color: #333;
+}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000;
+}
+a:hover {
+	color: #666;
+}
+a:active {
+	color: #999;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="85%" height="458" border="1" align="center">
+  <tr>
+    <td width="100%" height="350"><img src="../image/asoul.jfif" width="100%" height="100%" /></td>
+  </tr>
+  <tr>
+    <td height="36"><table width="100%" border="0">
+      <tr>
+        <td width="25%" align="center"><a href="../index.html">首页</a></td>
+        <td width="25%" align="center"><a href="../files/ttzl.html">团体资料</a></td>
+        <td width="25%" align="center"><a href="../files/cyjs.html">成员介绍</a></td>
+        <td width="25%" align="center"><a href="../files/xgzp.html">相关作品</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="26"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="83%" height="413"><p>简介:</p>
+          <p><strong>A-SOUL</strong>是2020年11月23日公开的<a href="https://zh.wikipedia.org/wiki/%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90" title="zhwp:乐华娱乐">乐华娱乐</a>旗下虚拟偶像团体，由<a href="https://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8" title="zhwp:字节跳动">字节跳动</a>朝夕光年工作室负责技术支持和日常运营，主要于<a href="https://zh.moegirl.org.cn/Bilibili" title="Bilibili">Bilibili</a>和<a href="https://zh.moegirl.org.cn/%E6%8A%96%E9%9F%B3" title="抖音">抖音</a>上开展活动</p>
+          <p>Bilibili:</p>
+          <p>B站官号名称为A-SOUL_Official，团里有谜之生物阿草，设定为嘉然的宠物。因为阿草形象经常在官号出镜，多被粉丝将其与工具人绑定。官号设立初期主要视频均为团播剪辑切片，然而阿草已经摆烂很久没有更新了，现主要为重大发表及活动相关的视频发布也用于接到工商时到对方评论区臊皮。每周二会在B站官号发布本周的直播预告，同时也会发布每周QA（2022年7月12日开始改为半月一次QA）阿草的太极教室来回答粉丝们提出的问题与建议接受粉丝们的狂暴鸿儒&ldquo;小伙伴你好，对不起&rdquo;。五位成员的B站账号现用于发布直播切片、发布动态与一个魂们互动。 </p>
+          <p>抖音:</p>
+          <p>抖音平台个人号原用于发布个人短视频，从2021年11月30日开始，转在新IP号@A-SOUL脑洞波发布短视频个，人号除商业合作内容外，无限期暂停更新。 </p></td>
+        <td width="17%" align="center"><p><img src="../image/A-SOUL透明.png" width="235" height="235" /></p>
+          <p>A-SOUL LOGO</p></td>
+      </tr>
+    </table>      <p><br />
+    </p></td>
+  </tr>
+  <tr align="center">
+    <td height="30">本网站仅供学习使用，请勿用作商业用途</td>
+  </tr>
+</table>
+</body>
+</html>
